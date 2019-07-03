@@ -1,7 +1,3 @@
-html {
-    scroll-behavior: smooth;
-}
-
 .player {
     height: 100vh;
     width: 100vw;
@@ -43,6 +39,8 @@ html {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    padding: 10px 50px;
+    text-transform: capitalize;
 }
 
 .outlet {
